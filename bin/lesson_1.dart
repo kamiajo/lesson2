@@ -1,4 +1,4 @@
-import 'package:lesson_1/lesson_1.dart' as lesson_1;
+//import 'package:lesson_1/lesson_1.dart' as lesson_1;
 
 void main() {
   //Задание 1
@@ -27,6 +27,9 @@ void main() {
 
   print("\n#4");
   print(num.contains(3));
+  print(num.first);
+  print(num.last);
+  print(num.length);
 
   //Задание 5
   List list1 = [601, 123, 2, "dart", 45, 95, "dart24", 1];
